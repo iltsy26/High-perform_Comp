@@ -1,0 +1,6 @@
+C:\Users\Iliya\source\repos\LAB_1_High-speed_Comp\LAB_1_High-speed_Comp\bin\Debug\LAB_1_High-speed_Comp.exe.config
+C:\Users\Iliya\source\repos\LAB_1_High-speed_Comp\LAB_1_High-speed_Comp\bin\Debug\LAB_1_High-speed_Comp.exe
+C:\Users\Iliya\source\repos\LAB_1_High-speed_Comp\LAB_1_High-speed_Comp\bin\Debug\LAB_1_High-speed_Comp.pdb
+C:\Users\Iliya\source\repos\LAB_1_High-speed_Comp\LAB_1_High-speed_Comp\obj\Debug\LAB_1_High-speed_Comp.csprojAssemblyReference.cache
+C:\Users\Iliya\source\repos\LAB_1_High-speed_Comp\LAB_1_High-speed_Comp\obj\Debug\LAB_1_High-speed_Comp.exe
+C:\Users\Iliya\source\repos\LAB_1_High-speed_Comp\LAB_1_High-speed_Comp\obj\Debug\LAB_1_High-speed_Comp.pdb
