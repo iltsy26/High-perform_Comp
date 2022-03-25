@@ -1,0 +1,8 @@
+C:\Users\ILYA\source\repos\LAB_6_High-perf_comp\LAB_6_High-perf_comp\bin\Debug\LAB_6_High-perf_comp.exe.config
+C:\Users\ILYA\source\repos\LAB_6_High-perf_comp\LAB_6_High-perf_comp\bin\Debug\LAB_6_High-perf_comp.exe
+C:\Users\ILYA\source\repos\LAB_6_High-perf_comp\LAB_6_High-perf_comp\bin\Debug\LAB_6_High-perf_comp.pdb
+C:\Users\ILYA\source\repos\LAB_6_High-perf_comp\LAB_6_High-perf_comp\obj\Debug\LAB_6_High-perf_comp.csproj.AssemblyReference.cache
+C:\Users\ILYA\source\repos\LAB_6_High-perf_comp\LAB_6_High-perf_comp\obj\Debug\LAB_6_High-perf_comp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ILYA\source\repos\LAB_6_High-perf_comp\LAB_6_High-perf_comp\obj\Debug\LAB_6_High-perf_comp.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\source\repos\LAB_6_High-perf_comp\LAB_6_High-perf_comp\obj\Debug\LAB_6_High-perf_comp.exe
+C:\Users\ILYA\source\repos\LAB_6_High-perf_comp\LAB_6_High-perf_comp\obj\Debug\LAB_6_High-perf_comp.pdb
