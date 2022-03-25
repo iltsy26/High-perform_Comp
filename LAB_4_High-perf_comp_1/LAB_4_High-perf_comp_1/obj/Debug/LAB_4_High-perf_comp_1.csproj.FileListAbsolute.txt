@@ -1,8 +1,0 @@
-C:\Users\ILYA\source\repos\LAB_4_High-perf_comp_1\LAB_4_High-perf_comp_1\bin\Debug\LAB_4_High-perf_comp_1.exe.config
-C:\Users\ILYA\source\repos\LAB_4_High-perf_comp_1\LAB_4_High-perf_comp_1\bin\Debug\LAB_4_High-perf_comp_1.exe
-C:\Users\ILYA\source\repos\LAB_4_High-perf_comp_1\LAB_4_High-perf_comp_1\bin\Debug\LAB_4_High-perf_comp_1.pdb
-C:\Users\ILYA\source\repos\LAB_4_High-perf_comp_1\LAB_4_High-perf_comp_1\obj\Debug\LAB_4_High-perf_comp_1.csproj.AssemblyReference.cache
-C:\Users\ILYA\source\repos\LAB_4_High-perf_comp_1\LAB_4_High-perf_comp_1\obj\Debug\LAB_4_High-perf_comp_1.csproj.SuggestedBindingRedirects.cache
-C:\Users\ILYA\source\repos\LAB_4_High-perf_comp_1\LAB_4_High-perf_comp_1\obj\Debug\LAB_4_High-perf_comp_1.csproj.CoreCompileInputs.cache
-C:\Users\ILYA\source\repos\LAB_4_High-perf_comp_1\LAB_4_High-perf_comp_1\obj\Debug\LAB_4_High-perf_comp_1.exe
-C:\Users\ILYA\source\repos\LAB_4_High-perf_comp_1\LAB_4_High-perf_comp_1\obj\Debug\LAB_4_High-perf_comp_1.pdb
